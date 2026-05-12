@@ -38,3 +38,7 @@ Previous Campaign Outcome
 Target Variable
 yes → Customer subscribed to term deposit
 no → Customer did not subscribe
+
+
+
+**This means the model predicted correctly 80% of the time.
