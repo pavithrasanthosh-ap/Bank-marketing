@@ -41,4 +41,4 @@ no → Customer did not subscribe
 
 
 
-**This means the model predicted correctly 80% of the time.
+**This means the model predicted correctly 90% of the time.
